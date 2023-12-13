@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WiremockDemoApplication {
+public class WeatherApplication {
     public static void main(String[] args) {
-        SpringApplication.run(WiremockDemoApplication.class, args);
+        SpringApplication.run(WeatherApplication.class, args);
     }
 }
